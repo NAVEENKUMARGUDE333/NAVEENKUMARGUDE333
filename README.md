@@ -38,42 +38,6 @@ I enjoy **learning, building, experimenting, and solving real-world problems** t
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 RFID Smart Door Lock
-
-Smart security system using **RFID, keypad, LCD, servo motor, and Arduino**.
-
-### 🤖 Drone Simulation
-
-Exploring **drone control and robotics concepts** using Python-based simulation.
-
----
-
-## 📚 Currently Learning
-
-`VLSI` • `FPGA` • `Verilog` • `Embedded C` • `Robotics` • `AI` • `Computer Vision` • `IoT`
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect
-
-Interested in **electronics, AI, robotics, or VLSI?**
-
-**Let's connect, learn, and build something awesome! 🚀**
-
-[![LinkedIn](www.linkedin.com/in/naveenkumargudeece)
-
----
-
 ### ⭐ Thanks for visiting!
 
 > **Keep learning. Keep building. Keep experimenting. 🚀**
