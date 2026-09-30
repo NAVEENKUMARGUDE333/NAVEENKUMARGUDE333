@@ -70,7 +70,7 @@ Interested in **electronics, AI, robotics, or VLSI?**
 
 **Let's connect, learn, and build something awesome! 🚀**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/naveenkumargudeece)
+[![LinkedIn](www.linkedin.com/in/naveenkumargudeece)
 
 ---
 
